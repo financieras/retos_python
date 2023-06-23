@@ -8,6 +8,6 @@
 
 ## Listado de Retos
 1. [Hola mundo](https://github.com/financieras/retos_python/blob/main/Hola_mundo.ipynb)
-2. [Extraer un elemento de una lista de tuplas](https://github.com/financieras/retos_python/blob/main/Extraer_de_lista_de_tuplas.ipynb)
+2. [Extraer el elemento n-ésimo de una lista de tuplas](https://github.com/financieras/retos_python/blob/main/Extraer_de_lista_de_tuplas.ipynb)
 3. [Ordenar una lista de tuplas por el elemento n-ésimo](https://github.com/financieras/retos_python/blob/main/Ordenar_lista_de_tuplas.ipynb)
 4. [Sublistas ordenadas](https://github.com/financieras/retos_python/blob/main/Sublistas_ordenadas.ipynb)
